@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of OptimalBidderSimple@15:java.lang.IllegalStateException: There is no evaluator for issue 2: There is no evaluator for issue 2" currentTime="Sun Dec 01 11:26:32 GMT 2019" lastAction="(Offer  bid:Bid[price: 1400])" bids="1" runtime="36.6455761" deadline="60rounds">
+<resultsOfAgent agent="MyAgent" utilspace="etc/templates/lab1/lab1_util1.xml" agentClass="D:\eclipseSpace\Agent\bin\group46\MyAgent.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="OptimalBidderSimple" utilspace="etc/templates/lab1/lab1_util2.xml" agentClass="agents.OptimalBidderSimple" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

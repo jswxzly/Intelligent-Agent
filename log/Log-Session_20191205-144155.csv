@@ -1,0 +1,10 @@
+1,1,4.619983333333333E-4,Agent46@0,(Offer  bid:Bid[Food: Catering, Drinks: Non-Alcoholic, Location: Your Dorm, Invitations: Custom, Printed, Music: Band, Cleanup: Hired Help])
+1,2,0.0021416533333333335,WhaleAgent@1,(Offer  bid:Bid[Food: Handmade Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Special Equiment])
+2,1,0.00218739,Agent46@0,(Offer  bid:Bid[Food: Handmade Food, Drinks: Non-Alcoholic, Location: Your Dorm, Invitations: Plain, Music: Band, Cleanup: Hired Help])
+2,2,0.002479415,WhaleAgent@1,(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Specialized Materials])
+3,1,0.0025658333333333336,Agent46@0,(Offer  bid:Bid[Food: Handmade Food, Drinks: Catering, Location: Your Dorm, Invitations: Custom, Printed, Music: Band, Cleanup: Special Equiment])
+3,2,0.002685303333333333,WhaleAgent@1,(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Handmade, Music: MP3, Cleanup: Special Equiment])
+4,1,0.002725895,Agent46@0,(Offer  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Your Dorm, Invitations: Plain, Music: Band, Cleanup: Hired Help])
+4,2,0.00285476,WhaleAgent@1,(Offer  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Your Dorm, Invitations: Plain, Music: Band, Cleanup: Hired Help])
+5,1,0.0028958800000000004,Agent46@0,(Accept  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Your Dorm, Invitations: Plain, Music: Band, Cleanup: Hired Help])
+agreement,Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Your Dorm, Invitations: Plain, Music: Band, Cleanup: Hired Help],0.406764820424688,0.6641181638288169

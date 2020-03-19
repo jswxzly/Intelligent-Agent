@@ -1,0 +1,10 @@
+1,1,2.6541833333333334E-5,MyAgent@0,(Offer  bid:Bid[price: 1000, HardDisk: 1TB, Monitor: 15])
+1,2,4.5134833333333334E-5,TimeDependentAgentLinear@1,(Offer  bid:Bid[price: 1400, HardDisk: 256GB, Monitor: 15])
+2,1,4.9111166666666665E-5,MyAgent@0,(Offer  bid:Bid[price: 1200, HardDisk: 1TB, Monitor: 15])
+2,2,5.3836E-5,TimeDependentAgentLinear@1,(Offer  bid:Bid[price: 1400, HardDisk: 256GB, Monitor: 15])
+3,1,5.852083333333333E-5,MyAgent@0,(Offer  bid:Bid[price: 1200, HardDisk: 1TB, Monitor: 15])
+3,2,6.33655E-5,TimeDependentAgentLinear@1,(Offer  bid:Bid[price: 1400, HardDisk: 256GB, Monitor: 15])
+4,1,6.903083333333332E-5,MyAgent@0,(Offer  bid:Bid[price: 1200, HardDisk: 1TB, Monitor: 15])
+4,2,0.012920357833333333,TimeDependentAgentLinear@1,(Offer  bid:Bid[price: 1400, HardDisk: 256GB, Monitor: 15])
+5,1,0.012925212666666666,MyAgent@0,(Accept  bid:Bid[price: 1400, HardDisk: 256GB, Monitor: 15])
+agreement,Bid[price: 1400, HardDisk: 256GB, Monitor: 15],0.30214051529954133,1.0

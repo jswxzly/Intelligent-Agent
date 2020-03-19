@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of Agent46@0:java.lang.NullPointerException: null" currentTime="Wed Dec 04 19:48:45 GMT 2019" lastAction="null" bids="60" runtime="0.3390604" deadline="60rounds">
+<resultsOfAgent agent="Agent46" utilspace="etc/templates/lab1/lab1_util1.xml" agentClass="D:\eclipseSpace\Agent\bin\group46\Agent46.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="FunctionalAcceptor" utilspace="etc/templates/lab1/lab1_util2.xml" agentClass="agents.FunctionalAcceptor" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

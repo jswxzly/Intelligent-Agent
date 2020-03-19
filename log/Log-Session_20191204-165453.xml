@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of Agent46@0:java.lang.NullPointerException: null" currentTime="Wed Dec 04 16:55:08 GMT 2019" lastAction="null" bids="60" runtime="15.0835306" deadline="60rounds">
+<resultsOfAgent agent="Agent46" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="D:\eclipseSpace\Agent\bin\group46\Agent46.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="MetaAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2012.MetaAgent.MetaAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

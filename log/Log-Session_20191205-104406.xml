@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome exception="Failed to execute protocol: Execution failed of Aster@1:java.lang.NullPointerException: bid can not be null: bid can not be null" currentTime="Thu Dec 05 10:44:06 GMT 2019" lastAction="(Offer  bid:Bid[price: 1400, HardDisk: 256GB, Monitor: 17])" bids="3" runtime="0.2066059" deadline="60s">
+<resultsOfAgent agent="Agent46" utilspace="etc/templates/lab1/lab1_util1.xml" agentClass="D:\eclipseSpace\Agent\bin\group46\Agent46.class" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Aster" utilspace="etc/templates/lab1/lab1_util2.xml" agentClass="agents.anac.y2014.Aster.Aster" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

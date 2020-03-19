@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Fri Nov 15 21:46:24 GMT 2019" timeOfAgreement="0.08196721311475409" lastAction="(Accept  bid:Bid[EnergyConsumption: Low, EnginePower: High, Price: Low])" domain="etc/templates/ANAC2016/nGent/ElectricVehicle.xml" bids="8" runtime="18.6197241" finalOutcome="Bid[EnergyConsumption: Low, EnginePower: High, Price: Low]" startingAgent="MyAgent@6" deadline="60rounds">
+<resultsOfAgent agent="MyAgent@6" agentDesc="Places random bids &gt;= 0.8" utilspace="etc/templates/ANAC2016/nGent/ElectricVehicle_profile1.xml" agentClass="group46.MyAgent" userUtility="0.4681138922451122" finalUtility="0.5166666666666666" discountedUtility="0.4681138922451122" discount="0.3" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentLinear@7" agentDesc="concedes linearly with time" utilspace="etc/templates/ANAC2016/nGent/ElectricVehicle_profile2.xml" agentClass="agents.TimeDependentAgentLinear" userUtility="0.9060268882163462" finalUtility="1.0" discountedUtility="0.9060268882163462" discount="0.3" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

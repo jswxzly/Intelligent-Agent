@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Sat Nov 09 23:24:19 GMT 2019" timeOfAgreement="0.22950819672131148" lastAction="(Accept  bid:Bid[price: 1400, HardDisk: 1TB, Monitor: 15])" domain="etc/templates/lab1/lab1.xml" bids="27" runtime="0.1026766" finalOutcome="Bid[price: 1400, HardDisk: 1TB, Monitor: 15]" startingAgent="TimeDependentAgentLinear@0" deadline="60rounds">
+<resultsOfAgent agent="TimeDependentAgentLinear@0" agentDesc="concedes linearly with time" utilspace="etc/templates/lab1/lab1_util1.xml" agentClass="agents.TimeDependentAgentLinear" userUtility="0.7016419565806491" finalUtility="0.7016419565806491" discountedUtility="0.7016419565806491" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgentLinear@1" agentDesc="concedes linearly with time" utilspace="etc/templates/lab1/lab1_util2.xml" agentClass="agents.TimeDependentAgentLinear" userUtility="0.7991733148508331" finalUtility="0.7991733148508331" discountedUtility="0.7991733148508331" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

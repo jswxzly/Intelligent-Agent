@@ -1,0 +1,4 @@
+1,1,1.1111666666666667E-4,Agent46@2,(Offer  bid:Bid[price: 1000, HardDisk: 256GB, Monitor: 17])
+1,2,0.005340931666666667,SlavaAgent@3,(Offer  bid:Bid[price: 1400, HardDisk: 256GB, Monitor: 15])
+2,1,0.0053820533333333335,Agent46@2,(Accept  bid:Bid[price: 1400, HardDisk: 256GB, Monitor: 15])
+agreement,Bid[price: 1400, HardDisk: 256GB, Monitor: 15],0.30214021068519875,1.0

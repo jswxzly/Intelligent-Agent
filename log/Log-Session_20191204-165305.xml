@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Wed Dec 04 16:53:06 GMT 2019" timeOfAgreement="0.8032786885245902" lastAction="(Accept  bid:Bid[price: 1400, HardDisk: 1TB, Monitor: 15])" domain="etc/templates/lab1/lab1.xml" bids="97" runtime="0.2234981" finalOutcome="Bid[price: 1400, HardDisk: 1TB, Monitor: 15]" startingAgent="BoulwareNegotiationParty@0" deadline="60rounds">
+<resultsOfAgent agent="BoulwareNegotiationParty@0" agentDesc="Time-based agent" utilspace="etc/templates/lab1/lab1_util1.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.7015473103078809" finalUtility="0.7015473103078809" discountedUtility="0.7015473103078809" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BoulwareNegotiationParty@1" agentDesc="Time-based agent" utilspace="etc/templates/lab1/lab1_util2.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.7992093527969341" finalUtility="0.7992093527969341" discountedUtility="0.7992093527969341" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

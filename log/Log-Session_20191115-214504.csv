@@ -1,0 +1,9 @@
+1,1,0.01639344262295082,MyAgent@4,(Offer  bid:Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD])
+1,2,0.01639344262295082,TimeDependentAgentLinear@5,(Offer  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])
+2,1,0.03278688524590164,MyAgent@4,(Offer  bid:Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 23'' LCD])
+2,2,0.03278688524590164,TimeDependentAgentLinear@5,(Offer  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])
+3,1,0.04918032786885246,MyAgent@4,(Offer  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 20'' LCD])
+3,2,0.04918032786885246,TimeDependentAgentLinear@5,(Offer  bid:Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD])
+4,1,0.06557377049180328,MyAgent@4,(Offer  bid:Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD])
+4,2,0.06557377049180328,TimeDependentAgentLinear@5,(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD])
+agreement,Bid[Laptop: Macintosh, Harddisk: 60 Gb, External Monitor: 19'' LCD],0.851647611783233,0.9411329008630686

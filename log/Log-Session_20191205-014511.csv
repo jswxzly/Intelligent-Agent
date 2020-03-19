@@ -1,0 +1,3 @@
+1,1,1.7656333333333334E-4,Agent46@0,(Offer  bid:Bid[price: 1400, HardDisk: 256GB, Monitor: 17])
+1,2,2.9165166666666667E-4,AgentX@1,(Accept  bid:Bid[price: 1400, HardDisk: 256GB, Monitor: 17])
+agreement,Bid[price: 1400, HardDisk: 256GB, Monitor: 17],0.0,0.9009764817899542

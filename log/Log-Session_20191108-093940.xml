@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Fri Nov 08 09:39:42 GMT 2019" lastAction="(Offer  bid:Bid[Food: Catering])" domain="etc/templates/partydomain/party_domain.xml" bids="120" runtime="1.7674275" finalOutcome="-" startingAgent="MyAgent@2" deadline="60rounds">
+<resultsOfAgent agent="MyAgent@2" agentDesc="Places random bids &gt;= 0.8" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="group46.MyAgent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="OptimalBidderSimple@3" agentDesc="using the optimal stopping rule (cutoffs) for bidding" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.OptimalBidderSimple" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

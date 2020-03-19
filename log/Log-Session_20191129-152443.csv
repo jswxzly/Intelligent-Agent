@@ -1,0 +1,10 @@
+1,1,0.01639344262295082,MyAgent@18,(Offer  bid:Bid[Food: Catering, Drinks: Beer Only, Location: Party Room, Invitations: Plain, Music: Band, Cleanup: Water and Soap])
+1,2,0.01639344262295082,FunctionalAcceptor@19,(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: MP3, Cleanup: Hired Help])
+2,1,0.03278688524590164,MyAgent@18,(Offer  bid:Bid[Food: Handmade Food, Drinks: Catering, Location: Party Room, Invitations: Custom, Printed, Music: Band, Cleanup: Special Equiment])
+2,2,0.03278688524590164,FunctionalAcceptor@19,(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: MP3, Cleanup: Hired Help])
+3,1,0.04918032786885246,MyAgent@18,(Offer  bid:Bid[Food: Finger-Food, Drinks: Catering, Location: Party Room, Invitations: Custom, Handmade, Music: Band, Cleanup: Hired Help])
+3,2,0.04918032786885246,FunctionalAcceptor@19,(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: MP3, Cleanup: Hired Help])
+4,1,0.06557377049180328,MyAgent@18,(Offer  bid:Bid[Food: Handmade Food, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Special Equiment])
+4,2,0.06557377049180328,FunctionalAcceptor@19,(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: MP3, Cleanup: Hired Help])
+5,1,0.08196721311475409,MyAgent@18,(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: MP3, Cleanup: Hired Help])
+agreement,Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: MP3, Cleanup: Hired Help],0.746312837105162,1.0
